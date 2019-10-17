@@ -1,4 +1,18 @@
 .nav-bar {
-  width: 100%;
   text-align: center;
+  background-color: #f28b41;
+}
+
+.navbar-links {
+  font-family: monospace;
+  font-size: 20px;
+  color: #324147;
+}
+
+body {
+  background-image: url("https://www.universetoday.com/wp-content/uploads/2015/10/The-Martian-4.jpg");
+  background-size: 200%;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
 }
